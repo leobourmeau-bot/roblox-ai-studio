@@ -1,0 +1,11 @@
+[package]
+name = "roblox-ai/studio-plugin"
+description = "Roblox AI Studio plugin"
+version = "0.1.0"
+license = "MIT"
+authors = ["Roblox AI contributors"]
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"
+private = true
+
+[dependencies]

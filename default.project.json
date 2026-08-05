@@ -1,0 +1,13 @@
+{
+  "name": "RobloxAI",
+  "emitLegacyScripts": false,
+  "tree": {
+    "$className": "Folder",
+    "Plugin": {
+      "$path": "plugin/src"
+    },
+    "Shared": {
+      "$path": "shared/src"
+    }
+  }
+}
